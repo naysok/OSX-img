@@ -1,0 +1,10 @@
+.DS_Store
+
+*.blend1
+*/*.blend1
+
+*.mov
+*/*.mov
+
+*.mp4
+*/*.mp4
